@@ -1,0 +1,18 @@
+{
+    "Bina": 0,
+    "Daire": 1,
+    "DagEvi": 2,
+    "Devremulk": 3,
+    "Kooperatif": 4,
+    "KoyEvi": 5,
+    "Kosk": 6,
+    "Mustakil": 7,
+    "MustakilEv": 8,
+    "Prefabrik": 9,
+    "Residence": 10,
+    "Villa": 11,
+    "Yali": 12,
+    "YaliDairesi": 13,
+    "Yazlik": 14,
+    "CiftlikEvi": 15
+}

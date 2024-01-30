@@ -1,0 +1,238 @@
+{
+    'Antalya': {
+        'Ortalama Fiyat': 15.049568909209668,
+        'Std Fiyat': 32.60517708971917
+    },
+    'Aydin': {
+        'Ortalama Fiyat': 7.794780172413793,
+        'Std Fiyat': 6.76112199947068
+    },
+    'Istanbul': {
+        'Ortalama Fiyat': 14.893935810810811,
+        'Std Fiyat': 37.66592978922358
+    },
+    'Kayseri': {
+        'Ortalama Fiyat': 3.76508,
+        'Std Fiyat': 3.568092761217548
+    },
+    'Ankara': {
+        'Ortalama Fiyat': 5.852571106094808,
+        'Std Fiyat': 9.556754670836243
+    },
+    'Izmir': {
+        'Ortalama Fiyat': 7.230199794379713,
+        'Std Fiyat': 8.983812845362133
+    },
+    'Konya': {
+        'Ortalama Fiyat': 6.388434285714285,
+        'Std Fiyat': 6.0136558476975885
+    },
+    'Denizli': {
+        'Ortalama Fiyat': 3.698042553191489,
+        'Std Fiyat': 4.280521762982552
+    },
+    'Adana': {
+        'Ortalama Fiyat': 4.401894736842105,
+        'Std Fiyat': 3.723019457588014
+    },
+    'Tekirdag': {
+        'Ortalama Fiyat': 3.8444010989010993,
+        'Std Fiyat': 3.405485284148395
+    },
+    'Bursa': {
+        'Ortalama Fiyat': 5.164204081632653,
+        'Std Fiyat': 8.667762978456715
+    },
+    'Diyarbakir': {
+        'Ortalama Fiyat': 5.084375,
+        'Std Fiyat': 7.491603025837602
+    },
+    'Balikesir': {
+        'Ortalama Fiyat': 7.317718061674009,
+        'Std Fiyat': 14.718567547647853
+    },
+    'Malatya': {
+        'Ortalama Fiyat': 2.325,
+        'Std Fiyat': 0.5794393842327255
+    },
+    'Trabzon': {
+        'Ortalama Fiyat': 14.0082131147541,
+        'Std Fiyat': 15.648645569429616
+    },
+    'Canakkale': {
+        'Ortalama Fiyat': 5.197105263157895,
+        'Std Fiyat': 4.936434643374112
+    },
+    'Ordu': {
+        'Ortalama Fiyat': 9.878333333333334,
+        'Std Fiyat': 16.752956229401494
+    },
+    'Mugla': {
+        'Ortalama Fiyat': 15.080217391304348,
+        'Std Fiyat': 29.939471632465867
+    },
+    'Kocaeli': {
+        'Ortalama Fiyat': 7.622241379310345,
+        'Std Fiyat': 6.435725819043788
+    },
+    'Samsun': {
+        'Ortalama Fiyat': 2.7158275862068963,
+        'Std Fiyat': 2.326363932789376
+    },
+    'Sakarya': {
+        'Ortalama Fiyat': 3.285761904761905,
+        'Std Fiyat': 2.671960967180892
+    },
+    'Eskisehir': {
+        'Ortalama Fiyat': 1.6803333333333332,
+        'Std Fiyat': 0.5070448932880832
+    },
+    'Kilis': {
+        'Ortalama Fiyat': 2.758571428571429,
+        'Std Fiyat': 2.7339679867147217
+    },
+    'Afyonkarahisar': {
+        'Ortalama Fiyat': 3.1244444444444444,
+        'Std Fiyat': 2.1637936079436457
+    },
+    'Sanliurfa': {
+        'Ortalama Fiyat': 2.9348076923076927,
+        'Std Fiyat': 3.6130301633861928
+    },
+    'Manisa': {
+        'Ortalama Fiyat': 2.933032258064516,
+        'Std Fiyat': 3.5622176658543383
+    },
+    'Mersin': {
+        'Ortalama Fiyat': 5.95956,
+        'Std Fiyat': 6.907271578531703
+    },
+    'Isparta': {
+        'Ortalama Fiyat': 2.47,
+        'Std Fiyat': 0.8837774041012816
+    },
+    'Sivas': {
+        'Ortalama Fiyat': 2.8689473684210527,
+        'Std Fiyat': 2.468438878537612
+    },
+    'Edirne': {
+        'Ortalama Fiyat': 2.455555555555556,
+        'Std Fiyat': 1.0306079651243618
+    },
+    'Gaziantep': {
+        'Ortalama Fiyat': 5.439235294117648,
+        'Std Fiyat': 6.8671453008895496
+    },
+    'Corum': {
+        'Ortalama Fiyat': 5.09,
+        'Std Fiyat': 5.81241774135342
+    },
+    'Duzce': {
+        'Ortalama Fiyat': 2.57125,
+        'Std Fiyat': 1.9522993921698248
+    },
+    'KKTC': {
+        'Ortalama Fiyat': 3.138666666666667,
+        'Std Fiyat': 5.130919124939182
+    },
+    'Nigde': {
+        'Ortalama Fiyat': 3.2,
+        'Std Fiyat': 2.573259929868467
+    },
+    'Zonguldak': {
+        'Ortalama Fiyat': 5.12,
+        'Std Fiyat': 3.5122167738718333
+    },
+    'Batman': {
+        'Ortalama Fiyat': 2.1,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Bolu': {
+        'Ortalama Fiyat': 10.25,
+        'Std Fiyat': 5.342440141608202
+    },
+    'Kirklareli': {
+        'Ortalama Fiyat': 2.482222222222222,
+        'Std Fiyat': 2.1844265710809427
+    },
+    'Yalova': {
+        'Ortalama Fiyat': 2.2414375,
+        'Std Fiyat': 1.8954936725032876
+    },
+    'Burdur': {
+        'Ortalama Fiyat': 2.3642857142857143,
+        'Std Fiyat': 2.7403944797714628
+    },
+    'Bayburt': {
+        'Ortalama Fiyat': 1.8566666666666667,
+        'Std Fiyat': 1.0716848106291947
+    },
+    'Giresun': {
+        'Ortalama Fiyat': 3.286363636363636,
+        'Std Fiyat': 2.4281773935496256
+    },
+    'Yozgat': {
+        'Ortalama Fiyat': 2.3741666666666665,
+        'Std Fiyat': 1.603634673691819
+    },
+    'Karaman': {
+        'Ortalama Fiyat': 1.5175,
+        'Std Fiyat': 1.2043577126418878
+    },
+    'Hatay': {
+        'Ortalama Fiyat': 6.807142857142857,
+        'Std Fiyat': 5.262083599632736
+    },
+    'Mardin': {
+        'Ortalama Fiyat': 2.9334285714285717,
+        'Std Fiyat': 3.053783819959694
+    },
+    'Kirikkale': {
+        'Ortalama Fiyat': 4.0,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Kastamonu': {
+        'Ortalama Fiyat': 0.75,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Amasya': {
+        'Ortalama Fiyat': 2.0225,
+        'Std Fiyat': 0.7459976541518075
+    },
+    'Erzurum': {
+        'Ortalama Fiyat': 4.023,
+        'Std Fiyat': 4.745127711663828
+    },
+    'Tokat': {
+        'Ortalama Fiyat': 4.15,
+        'Std Fiyat': 0.0
+    },
+    'Osmaniye': {
+        'Ortalama Fiyat': 3.3,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Nevsehir': {
+        'Ortalama Fiyat': 1.6996666666666667,
+        'Std Fiyat': 0.6769049662495713
+    },
+    'Kutahya': {
+        'Ortalama Fiyat': 1.829,
+        'Std Fiyat': 1.2142765335787395
+    },
+    'Artvin': {
+        'Ortalama Fiyat': 4.25,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Van': {
+        'Ortalama Fiyat': 1.35,
+        'Std Fiyat': 19.163485396044784
+    },
+    'Kahramanmaras': {
+        'Ortalama Fiyat': 4.66,
+        'Std Fiyat': 4.044650788387052
+    },
+    'Kars': {
+        'Ortalama Fiyat': 2.65,
+        'Std Fiyat': 19.163485396044784
+    }
+}

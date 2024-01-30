@@ -1,0 +1,10 @@
+{
+    "il_input": "Izmir",
+    "ilce_input": "Narlidere",
+    "mahalle_input": "Sahilevleri",
+    "konut_tipi_input": "Daire",
+    "bulundugu_kat_input": 3,
+    "Metrekare": 120,
+    "OdaSayisi": 3,
+    "SalonSayisi": 1
+}
